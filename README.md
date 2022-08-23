@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+- 🌱 I’m currently learning Flutter/Dart.
+- 🤔 I’m looking for help with Flutter/Dart.
+- 📫 How to reach me: Discord, Element, Telegram or Signal.
+- ⚡ Fun fact: I am supposed to be a homosapien.
