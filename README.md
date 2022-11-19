@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning Flutter/Dart.
 - 🤔 I’m looking for help with security researching & reverse engineering.
-- 📫 How to reach me: Discord or Element.
+- 📫 How to reach me: Discord: Zyki#3338 or Element: @fgpzczwtff:matrix.org.
