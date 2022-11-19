@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 
-- 🌱 I’m currently learning Flutter/Dart.
-- 🤔 I’m looking for help with security researching & reverse engineering.
-- 📫 How to reach me: Discord: Zyki#3338 or Element: @fgpzczwtff:matrix.org.
+- 🌱 I’m currently following a study as software developer
+- 🤔 I’m looking for help with security researching & reverse engineering
+- 📫 You can reach me on Element: @fgpzczwtff:matrix.org
