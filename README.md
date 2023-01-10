@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 
-- 🌱 I’m currently following a study as software developer
-- 🤔 I’m looking for help with security researching & reverse engineering
+- 🌱 Following a study as a software developer
+- 📚 Interested in security research & reverse engineering
 - 📫 You can reach me on Element: @fgpzczwtff:matrix.org
