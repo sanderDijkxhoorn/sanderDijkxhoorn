@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 
 - 🌱 Following a study as a software developer
 - 📚 Interested in security research & reverse engineering
-- 📫 You can reach me on Element: @fgpzczwtff:matrix.org
+- 📫 You can reach me on Matrix: @fgpzczwtff:matrix.org
