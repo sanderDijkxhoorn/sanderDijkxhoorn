@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=sanderDijkxhoorn&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
-- 🌱 Following a study as a software developer
-- 📚 Interested in security research & reverse engineering
+- 🧍‍♂️Software developer
+- 📚 Security research & reverse engineering
 - 📫 You can reach me on Matrix: @fgpzczwtff:matrix.org
